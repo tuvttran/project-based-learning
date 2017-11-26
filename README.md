@@ -77,12 +77,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Mobile Application:
 
 * [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
+* [Build a To-Do App with Vue.js](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2#component-structure)
 
 ### Web Applications:
 
 #### React:
 
 * [Create Serverless React.js Apps](http://serverless-stack.com/)
+* [Build a Music Player with React](https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts)
 * [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 * [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
@@ -242,3 +244,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Michael Herman's Blog](http://mherman.org/)
 * [Thinkster.io](http://thinkster.io)
 * [Goodheads](http://goodheads.io)
+
