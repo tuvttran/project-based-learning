@@ -191,6 +191,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Web Applications:
 
 * [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Build a complete blog application with admin panel in Django](https://overiq.com/django/1.10/intro-to-django)
 * [Create a blog webapp in Django](https://tutorial.djangogirls.org/en/)
 * [Extend the Django Blog Web App](https://legacy.gitbook.com/book/djangogirls/django-girls-tutorial-extensions/details)
 * [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
