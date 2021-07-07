@@ -17,6 +17,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [HTML/CSS](#html-and-css)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Julia](#julia)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [OCaml](#ocaml)
@@ -181,6 +182,29 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 - [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
+
+## Julia:
+
+#### Videos
+
+- [Intro to Julia (version 1.0) , by Jane Herriman](https://www.youtube.com/watch?v=8h8rQyEpiZA&t)
+- [Intro to Julia for data science, by Huda Nassar](https://www.youtube.com/watch?v=SLE0vz85Rqo&feature=youtu.be)
+- [Intro to the Queryverse, a Julia data science stack, by David Anthoff](https://www.youtube.com/watch?v=OFPNph-WxLM)
+- [Intro to dynamical systems in Julia, by George Datseris](https://www.youtube.com/watch?v=13hqE_1a158)
+- [Introducción a Julia en español, by Miguel Raz Guzmán](https://www.youtube.com/watch?v=LbTbs-0pOuc&feature=youtu.be)
+- [Intro to JuliaDB, a package for working with large persistent data sets, by Josh Day and Shashi Gowda](https://www.youtube.com/watch?v=d5SzUh2_ono)
+- [Intro to solving differential equations in Julia, by Chris Rackauckas](https://www.youtube.com/watch?v=KPEqYtEd-zY)
+- [Intro to Julia (version 0.6), by Jane Herriman](https://www.youtube.com/watch?v=4igzy3bGVkQ)
+
+#### Text
+
+- [From zero to Julia! by Aurelio Amerio. An expanding series of short tutorials about Julia, starting from the beginner level and going up to deal with the more advanced topics](https://techytok.com/from-zero-to-julia/).
+- [Julia Workshop for Physicists by Carsten Bauer (see also JuliaWorkshop19)](https://github.com/crstnbr/JuliaOulu20)
+- [ThinkJulia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+- [A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas](https://ucidatascienceinitiative.github.io/IntroToJulia/)
+- [The Julia Express (featuring Julia 1.0) by Bogumił Kamiński](https://github.com/bkamins/The-Julia-Express)
+- [A Comprehensive Tutorial to Learn Data Science with Julia from Scratch by Mohd Sanad Zaki Rizvi](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/)
+- [Julia language: a concise tutorial by Antonello Lobianco. A basic introduction that includes the main packages.](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
 
 ## HTML and CSS:
 
@@ -462,6 +486,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Code a Smile Classifier using CNNS in Python](https://github.com/kylemcdonald/SmileCNN)
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
 - [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
+### Evolutionary Algorithms
+
+- [Introduction to Evolutionary Algorithms](https://medium.com/@MohammedAmer/evolutionary-computation-a-primer-e3ca6fb0db5c)
+- [Evolving Neural Networks](https://towardsdatascience.com/evolving-neural-networks-b24517bb3701)
+- [Genetic Algorithms and Neural Networks](https://www.youtube.com/watch?v=7J-DfS52bnI)
 
 ### Miscellaneous:
 
