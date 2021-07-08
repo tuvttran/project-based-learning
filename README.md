@@ -183,8 +183,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
 
 ## HTML and CSS:
-
 - [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
+- [Build A Simple Calculator Layout with CSS Grid](https://freshman.tech/css-grid-calculator/)
 - [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
 
 ### Mobile Application:
